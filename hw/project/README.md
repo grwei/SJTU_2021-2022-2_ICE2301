@@ -7,7 +7,7 @@
 
 [toc]
 
-- [report](doc/project_危国锐_516021910080.pdf) (2022-06-05)
+- [Course project](doc/project_危国锐_516021910080.pdf) (2022-06-05)
 
 ## Contents
 

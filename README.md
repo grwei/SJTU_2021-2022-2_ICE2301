@@ -15,7 +15,7 @@
 - [Chapter 4](hw\ch4\ch4_危国锐_516021910080.pdf) (2022-04-24)
 - [Chapter 5](hw\ch5_危国锐_516021910080.pdf) (2022-04-28)
 - [Chapter 9](hw\ch9_危国锐_516021910080.pdf) (2022-05-19)
-- [course project](hw/project/doc/project_危国锐_516021910080.pdf) (2022-06-05)
+- [Course project](hw/project/doc/project_危国锐_516021910080.pdf) (2022-06-05)
 
 ## Contact Information
 
