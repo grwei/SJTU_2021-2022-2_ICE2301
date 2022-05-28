@@ -1,6 +1,7 @@
 #
 ~$*.doc*
 *.mp4
+*.emf
 
 # Prerequisites
 *.d
