@@ -15,7 +15,13 @@
 - [Chapter 4](hw\ch4\ch4_危国锐_516021910080.pdf) (2022-04-24)
 - [Chapter 5](hw\ch5_危国锐_516021910080.pdf) (2022-04-28)
 - [Chapter 9](hw\ch9_危国锐_516021910080.pdf) (2022-05-19)
+- [Chapter 10](hw\ch10_危国锐_516021910080.pdf) (2022-06-01)
 - [Course project](hw/project/doc/project_危国锐_516021910080.pdf) (2022-06-05)
+
+### Exam
+
+- [mid_term](exam/mid_term/516021910080_危国锐_ICE2301_mid_term_exam.docx)
+- [final](exam/final/516021910080_危国锐_信号与系统.pdf)
 
 ## Contact Information
 
